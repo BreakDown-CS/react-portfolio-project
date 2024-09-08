@@ -8,7 +8,7 @@ import Portfolio from "./components/Portfolio/Portfolio";
 import Number from "./components/Number/Number";
 import Testimonials from "./components/Testimonials/Testimonials";
 import Contact from "./components/Contact/Contact";
-import Footer from "./components/Footer/footer";
+import Footer from "./components/Footer";
 
 import AnimatedCursor from "react-animated-cursor";
 
